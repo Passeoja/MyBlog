@@ -1,0 +1,21 @@
+img {
+    border-radius: 55px 55px 55px 55px;
+    position: relative;
+    left: 31px;
+}
+
+.profile {
+    text-align: center;
+    position: relative;
+    top:200px;
+}
+
+.Letgo {
+    background-color: #4a73f1;
+    border: none;
+    border-radius: 5px;
+    float: right;
+    padding: .375rem .75rem;
+    font-size: 10px;
+    color: #fff;
+}
